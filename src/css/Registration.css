@@ -1,0 +1,33 @@
+.h2Styles
+{
+	visibility: visible;
+	animation-name: fadeInDown;
+	animation-delay: 0.3s;
+	color: orange;
+}
+
+#divRowTerms
+{
+	margin-left: 80px;
+	margin-top: 20px;
+	color: #093C8F;
+}
+
+#divRowMembership
+{
+	margin-left: 80px;
+	margin-top: 20px;
+	color: #093C8F;
+}
+
+#chkTerms
+{
+	width: 20px;
+	height: 20px;
+}
+
+#chkMembership
+{
+	width: 20px;
+	height: 20px;
+}

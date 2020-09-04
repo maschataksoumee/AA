@@ -1,0 +1,13 @@
+.RowJoinUs
+{
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+
+.h2Styles
+{
+	visibility: visible;
+	animation-name: fadeInDown;
+	animation-delay: 0.3s;
+	color: orange;
+}

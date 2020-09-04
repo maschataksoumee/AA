@@ -1,0 +1,377 @@
+$( document ).ready(function() 
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+});
+
+function designShow()
+{
+	$("#divDesign").show();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function disasterShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").show();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function educationShow() 
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").show();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function environmentShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").show();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function historyShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").show();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function humanitiesShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").show();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function lawShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").show();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function libraryShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").show();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function literatureShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").show();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function mediaShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").show();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function artsShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").show();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function philosophyShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").show();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function psycologyShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").show();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function recreationShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").show();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function religionShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").show();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").hide();
+}
+
+function socialScienceShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").show();
+	$("#divVisualArts").hide();
+}
+
+function visualArtsShow()
+{
+	$("#divDesign").hide();
+	$("#divDisaster").hide();
+	$("#divEducation").hide();
+	$("#divEnvironmental").hide();
+	$("#divHistory").hide();
+	$("#divHumanities").hide();
+	$("#divLaw").hide();
+	$("#divLibrary").hide();
+	$("#divLiterature").hide();
+	$("#divMedia").hide();
+	$("#divArts").hide();
+	$("#divPhilosophy").hide();
+	$("#divPsycology").hide();
+	$("#divRecreation").hide();
+	$("#divReligion").hide();
+	$("#divSocialScience").hide();
+	$("#divVisualArts").show();
+}

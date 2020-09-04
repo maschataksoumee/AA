@@ -1,0 +1,496 @@
+.container-fluid{
+overflow: hidden;
+}
+
+.divNavWrapper
+{
+	background: #ffffff;
+	height: 100px;
+}
+.NavbarIcon
+{
+	margin-top: 30px;
+	color: black;
+	font-size: large;
+}
+
+.NavbarHeader
+{
+	margin-right: 850px;
+}
+
+.NavbarLogo
+{
+	height: 120px; 
+	width: 130px;
+	margin-left:20px;
+}
+
+.RowServicesOffered
+{
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.h2Styles
+{
+	visibility: visible;
+	animation-name: fadeInDown;
+	animation-delay: 0.3s;
+	color: orange;
+}
+
+.headingRows
+{
+	margin-bottom: 10px; 
+	margin-top: 15px;
+}
+
+.pricingRow
+{
+	/*background-color: #96CCF1;*/
+	padding-top:20px;
+}
+
+.subjectAreaRow
+{
+	padding-top:20px;
+	/*background-color: #96CCF1;*/
+}
+
+.spnWordCount
+{
+	color: #003399; 
+	/*margin-left: 30px;*/
+}
+
+.spnTAT
+{
+	/*margin-left: 175px; */
+	color: #003399;
+}
+
+.spnService
+{
+	margin-left: 175px; 
+	color: #003399;
+}
+
+.pricingSecondRow
+{
+	padding-top: 10px;
+}
+
+#btnPricing
+{
+	margin-top: 20px;
+	float:right;
+}
+
+.pricingInformationRow
+{
+	/*background-color: #96CCF1; *//*correct*/
+	padding-top:50px; 
+	padding-bottom: 50px;
+}
+
+.divManuscript
+{
+	background-image: url("../Images/Manuscript.jpg");
+	min-height: 200px;
+	background-size: 1200px 200px;
+}
+
+.cardBodyStandard
+{
+	width: 300px;
+}
+
+.checkColor
+{
+	color:green;
+}
+
+.uncheckColor
+{
+	color:red;
+}
+
+/*.pricingInformationCard
+{
+	border-color: #4d88ff;
+	border-radius: 25px;
+	border-style: solid;
+}*/
+
+.aboutUsRow
+{
+	/*background-color: #96CCF1;*/ /*correct*/
+	padding-top:20px;
+}
+
+.clientsRow
+{
+	height: 200px;
+}
+
+.clientCarouselRow
+{
+	margin-left:80px;
+}
+
+.carouselCambridge
+{
+	margin-top: 20px;
+}
+
+.carouselImage
+{
+	max-width:100%;
+}
+
+.carouselSecondRow
+{
+	margin-left:80px;
+}
+
+.imgAboutUsCarousel
+{
+	height: 500px; 
+	width:500px;
+}
+
+.differentRow
+{
+	background-color: #96CCF1;
+}
+
+.differentRowTable
+{
+	text-align: center;
+}
+
+.imgCardFeatures
+{
+	height:200px; 
+	width:300px;
+}
+
+.cardFeaturesRow
+{
+	margin-top:30px;
+}
+
+.rowSubjectArea
+{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.footerRow1
+{
+	background-color: #949698; 
+	margin-top: 15px; 
+	padding-bottom: 10px; 
+	padding-top: 15px;
+}
+
+.footerRowParagraph1
+{
+	font-size: larger;
+	font-family: unset;
+	margin-left: 150px;
+}
+
+.footerRow2
+{
+	background-color: #949698;
+}
+
+.footerSocialMediaIcons
+{
+	height:20px; 
+	margin-left: 15px; 
+	margin-right: 15px;
+}
+
+.footerRowParagraph2
+{
+	margin-left: 300px;
+}
+
+.tableServicesOffered
+{
+	text-align: center;
+}
+
+
+.flip-card 
+{
+	background-color: transparent;
+	width: 300px;
+	height: 300px;
+	perspective: 1000px;
+}
+
+.flip-card-inner 
+{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	transition: transform 0.6s;
+	transform-style: preserve-3d;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner 
+{
+	transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back 
+{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	backface-visibility: hidden;
+}
+
+.flip-card-front 
+{
+	background-color: #bbb;
+	color: black;
+}
+
+.flip-card-back 
+{
+	padding-top:20px;
+	background-color: #ccddff;
+	color: #00001a;
+	transform: rotateY(180deg);
+	text-align: center;
+}
+
+.service_secnd_sectn 
+{
+	padding-left: 20px;
+	padding-top: 5px;
+	display: block;
+}
+
+.about_service_descrptn
+{
+	padding: 0px 10px;
+    width: 250px;
+    height:200px;
+}
+
+.about_service_sect3
+{
+	border: 1px solid #c1c1c1;
+    box-shadow: 0 0 10px rgba(0,0,0, .65);
+    margin-top: 20px;
+    width:250px;
+}
+
+.rowKeyFeatures2
+{
+	margin-bottom:5px; 
+	margin-top:50px; 
+	/*background-color: #96CCF1; /*Change*/*/
+}
+
+.colKeyFeatures
+{
+	padding-top:10px;
+}
+
+.rowKeyFeatures
+{
+	margin-bottom:5px;  
+	/*background-color: #96CCF1;*/
+}
+
+.parallax1 
+{
+/* The image used */
+background-image: url("../Images/parallax1.jpg");
+
+/* Set a specific height */
+min-height: 300px; 
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.parallax2 
+{
+/* The image used */
+background-image: url("../Images/parallax2.jpg");
+
+/* Set a specific height */
+min-height: 300px; 
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.rowServicesOfferedImage
+{
+	height:150px; 
+	margin-left: 70px;
+}
+
+.colEnquireNow
+{
+	margin-top: 20px; 
+	margin-left: 40px;
+}
+
+.colKeyFeaturesImage
+{
+	height: 50px;
+}
+
+.rowClientsCarouselCambridge
+{
+	margin-top: 110px; 
+	margin-left: 100px;
+}
+
+.rowClientsCarouselOxford
+{
+	max-width:100%; 
+	margin-top:60px; 
+	margin-left: 100px;
+}
+
+.rowClientsCarousel2
+{
+	margin-top: 20px;
+}
+
+.rowClientsCarouselWiley
+{
+	max-width: 100%; 
+	margin-top: 40px;
+}
+
+.rowClientsCarousel3
+{
+	margin-top: 40px;
+	margin-bottom:40px;
+}
+
+.rowClientsCarouselImage3
+{
+	max-width:100%;
+	height: 180px;
+}
+
+.divSubjectArea
+{
+	text-align:center; 
+	vertical-align: middle;
+}
+
+.divSubjectArea i
+{
+	font-size:50px; 
+	color: #3b3b3b;
+}
+
+.divSubjectAreaMedical a
+{
+	text-decoration: none !important
+}
+
+.divSubjectAreaParagraph1
+{
+	color:black;
+}
+
+.divSubjectAreaParagraph2
+{
+	font-size:16px;  
+	color:black; 
+	/*width: 250px; */
+	/*margin-left: 80px;*/
+}
+
+.divSubjectAreaParagraph3
+{
+	font-size:16px; 
+	color:black; 
+	/*width: 350px;*/ 
+	/*margin-left: 180px;*/
+}
+
+.rowTestimonials
+{
+	padding-top: 50px; 
+	height: 150px;
+}
+
+/*.aboutUsRowParagraph
+{
+	margin-left: 220px;
+}*/
+
+.divColNumbers
+{
+	padding-bottom: 20px;
+}
+
+.divRowAboutUsNumbers
+{
+	font-family: kelsonSans-Regular; 
+	display:inline-block; 
+	font-size: 17px;
+}
+
+.spanRowAboutUsNumbers
+{
+	font-family: 'calibri'; 
+	font-size: 30px; 
+	color: #d52b1e;
+	font-weight: 700; 
+	margin: 0 5px 5px 0;
+	display: inline-block;
+}
+
+.imgNumbersIcon
+{
+	height: 50px;
+}
+
+.card-header
+{
+	background-color: #1f73b7;
+	text-align: center;
+	color: #fff;
+	height: 200px;
+}
+
+.spnStandard
+{
+	padding-top: 50px;
+	padding-left: 60px;
+	font-weight: 700;
+	font-family: sans-serif;
+	font-size: xx-large;
+}
+
+@media only screen and (max-width: 1000px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}

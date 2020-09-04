@@ -1,0 +1,43 @@
+.h2Styles
+{
+	visibility: visible;
+	animation-name: fadeInDown;
+	animation-delay: 0.3s;
+	color: orange;
+	margin-top: 30px;
+}
+
+.divRowPricingOptions
+{
+	margin-top: 30px;
+}
+
+.h1Heading
+{
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.paraClass
+{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.btnPayNow
+{
+	margin-top: 20px;
+	
+	margin: auto;
+	display: block;
+	background-color: #F9A539;
+}
+
+.divcol4
+{
+	border: black; 
+	border-style: groove; 
+	color: black; 
+	background-color: #EEF1F7;
+}

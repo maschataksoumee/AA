@@ -1,0 +1,22 @@
+.divRowCardNumber
+{
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+
+.divRowExpiryDate
+{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.divRowCVV
+{
+	margin-top: 25px;
+	margin-bottom: 50px;
+}
+
+#btnPay
+{
+	margin-bottom: 50px;
+}

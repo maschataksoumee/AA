@@ -1,0 +1,23 @@
+.divNavWrapper
+{
+	background: #ffffff;
+	height: 100px;
+}
+.NavbarIcon
+{
+	margin-top: 30px;
+	color: black;
+	font-size: large;
+}
+
+.NavbarHeader
+{
+	margin-right: 850px;
+}
+
+.NavbarLogo
+{
+	height: 100px; 
+	width: 120px;
+	margin-left:20px;
+}

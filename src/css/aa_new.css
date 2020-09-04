@@ -1,0 +1,85 @@
+.divNavWrapper
+{
+	background: #ffffff;
+	height: 100px;
+}
+.NavbarIcon
+{
+	margin-top: 30px;
+	color: black;
+	font-size: large;
+}
+
+.NavbarLogo
+{
+	height: 150px; 
+	width: 170px;
+	margin-left:20px;
+}
+
+.RowServicesOffered
+{
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+.h2Styles
+{
+	visibility: visible;
+	animation-name: fadeInDown;
+	animation-delay: 0.3s;
+	color: #e65100;	
+    font-size: xx-large;
+
+}
+
+#btnServiceEnquire
+{
+	background-color: #0d47a1;
+}
+
+.headingRows
+{
+	margin-bottom: 10px; 
+	margin-top: 15px;
+}
+
+.pricingRow
+{
+	background-color: #fbe9e7;
+	padding-bottom:20px;
+}
+
+#btnPricing
+{
+	background-color: #0d47a1;
+}
+.clientsRow
+{
+	height: 200px;
+}
+
+.clientCarouselRow
+{
+	margin-left:80px;
+}
+
+.carouselCambridge
+{
+	margin-top: 20px;
+}
+
+.carouselImage
+{
+	max-width:100%;
+}
+
+.carouselSecondRow
+{
+	margin-left:80px;
+}
+
+.tableServicesOffered
+{
+	text-align: center;
+}
